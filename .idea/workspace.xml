@@ -2,11 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="b9f25fdc-7d10-4428-9586-594f92b29924" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/CapstoneProjects/DataScienceGuidedCapstone/Notebooks/02_data_wrangling.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/CapstoneProjects/DataScienceGuidedCapstone/Notebooks/02_data_wrangling.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CapstoneProjects/DataScienceGuidedCapstone/Notebooks/03_exploratory_data_analysis.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/CapstoneProjects/DataScienceGuidedCapstone/Notebooks/03_exploratory_data_analysis.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/SpringBoardPractice.ipynb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/newfile.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Unit 20.1.2 Cowboys_CigrettesCaseStudy/.ipynb_checkpoints/Cowboy Cigarettes Case Study - Tier 3-checkpoint.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/Unit 20.1.2 Cowboys_CigrettesCaseStudy/.ipynb_checkpoints/Cowboy Cigarettes Case Study - Tier 3-checkpoint.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Unit 20.1.2 Cowboys_CigrettesCaseStudy/Cowboy Cigarettes Case Study - Tier 3.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/Unit 20.1.2 Cowboys_CigrettesCaseStudy/Cowboy Cigarettes Case Study - Tier 3.ipynb" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -16,9 +13,9 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 6
-}]]></component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 6
+}</component>
   <component name="ProjectId" id="2iu5hgEmVFpZCLZ4luZRkd1m4Vu" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
@@ -27,7 +24,8 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "main"
+    "git-widget-placeholder": "main",
+    "settings.editor.selected.configurable": "com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable"
   }
 }]]></component>
   <component name="SharedIndexes">
