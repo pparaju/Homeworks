@@ -2,8 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="b9f25fdc-7d10-4428-9586-594f92b29924" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/Unit 20.1.2 Cowboys_CigrettesCaseStudy/.ipynb_checkpoints/Cowboy Cigarettes Case Study - Tier 3-checkpoint.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/Unit 20.1.2 Cowboys_CigrettesCaseStudy/.ipynb_checkpoints/Cowboy Cigarettes Case Study - Tier 3-checkpoint.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Unit 20.1.2 Cowboys_CigrettesCaseStudy/Cowboy Cigarettes Case Study - Tier 3.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/Unit 20.1.2 Cowboys_CigrettesCaseStudy/Cowboy Cigarettes Case Study - Tier 3.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CapstoneTwo_RUL_predict/notebooks/RUL_project_EDA.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/CapstoneTwo_RUL_predict/notebooks/RUL_project_EDA.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CapstoneTwo_RUL_predict/notebooks/RUL_project_Modeling.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/CapstoneTwo_RUL_predict/notebooks/RUL_project_Modeling.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CapstoneTwo_RUL_predict/notebooks/RUL_project_data_wrangling.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/CapstoneTwo_RUL_predict/notebooks/RUL_project_data_wrangling.ipynb" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -21,13 +22,13 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "main",
-    "settings.editor.selected.configurable": "com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable&quot;
   }
-}]]></component>
+}</component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
