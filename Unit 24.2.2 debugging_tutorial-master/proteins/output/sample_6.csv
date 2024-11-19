@@ -1,0 +1,256 @@
+accession,name,length,A,C,D,E,F,G,H,I,K,L,M,N,P,Q,R,S,T,V,W,Y
+A0A024R161,guanine nucleotide-binding protein subunit gamma os=homo sapiens gn=dnajc25-gng10 pe=3 sv=,156,24,5,4,9,2,15,1,1,3,21,3,2,13,7,14,7,4,8,3,7
+A0A075B6F4,t cell receptor beta variable 21/or9-2 (pseudogene)  os=homo sapiens gn=trbv21or9-2 pe=4 sv=,126,9,7,3,11,8,2,2,7,9,9,2,5,5,7,8,9,7,5,2,5
+A0A075B6H5,t cell receptor beta variable 20/or9-2 (non-functional)  os=homo sapiens gn=trbv20or9-2 pe=4 sv=,133,6,3,3,7,5,9,3,4,6,15,5,4,7,5,7,16,11,10,1,3
+A0A075B6H7,immunoglobulin kappa variable 3-7 (non-functional)  os=homo sapiens gn=igkv3-7 pe=1 sv=,118,8,2,4,4,4,6,0,4,1,16,2,1,10,9,6,16,11,4,2,6
+A0A075B6H8,immunoglobulin kappa variable 1d-42 (non-functional)  os=homo sapiens gn=igkv1d-42 pe=4 sv=,119,7,2,8,2,7,9,1,6,6,15,3,1,8,5,5,15,4,5,3,5
+A0A075B6H9,immunoglobulin lambda variable 4-69 os=homo sapiens gn=iglv4-69 pe=1 sv=,121,8,3,5,4,2,11,4,4,4,16,2,1,5,7,3,21,9,2,3,5
+A0A075B6I0,immunoglobulin lambda variable 8-61 os=homo sapiens gn=iglv8-61 pe=3 sv=,125,7,2,5,2,2,14,0,4,1,11,5,2,7,6,3,19,13,9,2,8
+A0A075B6I1,immunoglobulin lambda variable 4-60 os=homo sapiens gn=iglv4-60 pe=3 sv=,122,7,3,5,4,3,10,3,3,4,16,2,3,6,6,3,22,8,3,3,6
+A0A075B6I3,immunoglobulin lambda variable 11-55 (non-functional) os=homo sapiens gn=iglv11-55 pe=4 sv=,140,7,3,6,7,4,10,3,1,5,20,2,3,11,7,5,22,8,6,1,6
+A0A075B6I4,immunoglobulin lambda variable 10-54 os=homo sapiens gn=iglv10-54 pe=3 sv=,119,11,2,3,3,1,9,3,3,2,16,1,7,7,8,5,16,10,5,2,3
+A0A075B6I6,immunoglobulin lambda variable 1-50 (non-functional)  os=homo sapiens gn=iglv1-50 pe=1 sv=,120,11,3,4,2,1,12,2,4,3,12,1,5,7,7,2,19,8,6,4,5
+A0A075B6I7,immunoglobulin lambda variable 5-48 (non-functional) os=homo sapiens gn=iglv5-48 pe=1 sv=,107,7,2,3,0,3,10,2,4,3,14,1,2,7,5,5,19,7,3,2,6
+A0A075B6I9,immunoglobulin lambda variable 7-46 os=homo sapiens gn=iglv7-46 pe=3 sv=,119,10,4,2,4,4,12,2,1,3,14,1,2,9,6,3,13,13,5,3,6
+A0A075B6J1,immunoglobulin lambda variable 5-37 os=homo sapiens gn=iglv5-37 pe=3 sv=,126,7,3,6,3,1,10,1,5,3,15,2,4,11,6,3,22,6,3,3,9
+A0A075B6J2,immunoglobulin lambda variable 2-33 (non-functional)  os=homo sapiens gn=iglv2-33 pe=4 sv=,120,7,2,4,2,4,10,2,4,3,14,2,4,4,5,3,21,12,6,3,6
+A0A075B6J6,immunoglobulin lambda variable 3-22 os=homo sapiens gn=iglv3-22 pe=3 sv=,117,7,2,7,9,1,9,0,4,1,13,1,4,8,5,4,13,11,6,2,8
+A0A075B6J9,immunoglobulin lambda variable 2-18 os=homo sapiens gn=iglv2-18 pe=3 sv=,120,8,2,4,3,2,11,0,3,2,11,2,3,8,7,3,22,12,6,3,6
+A0A075B6K0,immunoglobulin lambda variable 3-16 os=homo sapiens gn=iglv3-16 pe=3 sv=,117,8,3,4,7,2,9,0,6,4,12,2,0,9,6,3,16,8,6,2,8
+A0A075B6K2,immunoglobulin lambda variable 3-12 os=homo sapiens gn=iglv3-12 pe=3 sv=,117,10,3,6,4,1,9,4,6,2,8,2,5,7,6,4,15,9,6,3,5
+A0A075B6K4,immunoglobulin lambda variable 3-10 os=homo sapiens gn=iglv3-10 pe=3 sv=,117,9,3,5,6,2,8,1,4,4,9,2,1,9,6,3,17,10,6,2,8
+A0A075B6K5,hcg2043239  os=homo sapiens gn=iglv3-9 pe=1 sv=,117,12,2,4,3,2,10,3,5,2,10,1,6,5,7,5,14,9,7,3,5
+A0A075B6K6,immunoglobulin lambda variable 4-3 os=homo sapiens gn=iglv4-3 pe=3 sv=,125,7,3,7,5,5,11,4,6,4,11,3,1,7,6,4,18,8,4,2,6
+A0A075B6L2,t cell receptor gamma variable 11 (non-functional)  os=homo sapiens gn=trgv11 pe=4 sv=,105,6,3,2,7,3,5,6,9,12,9,0,3,3,5,2,12,5,4,4,3
+A0A075B6L6,t cell receptor beta variable 7-3  os=homo sapiens gn=trbv7-3 pe=4 sv=,117,11,3,7,5,4,13,2,3,5,13,1,1,5,6,7,10,8,5,2,4
+A0A075B6M9,t cell receptor beta variable 23/or9-2 (non-functional)  os=homo sapiens gn=trbv23or9-2 pe=4 sv=,114,6,7,1,5,6,8,3,2,10,12,4,5,6,8,3,6,8,5,2,4
+A0A075B6N1,t cell receptor beta variable 19  os=homo sapiens gn=trbv19 pe=1 sv=,116,6,5,5,5,4,8,1,5,6,11,2,7,4,9,4,10,6,8,1,7
+A0A075B6N2,t cell receptor beta variable 20-1  os=homo sapiens gn=trbv20-1 pe=4 sv=,113,7,3,3,5,5,7,3,4,6,15,4,2,4,5,4,15,9,6,1,3
+A0A075B6N3,t cell receptor beta variable 24-1  os=homo sapiens gn=trbv24-1 pe=4 sv=,117,8,3,8,3,6,9,1,6,6,12,4,3,3,7,6,11,8,3,1,7
+A0A075B6N4,t cell receptor beta variable 25-1  os=homo sapiens gn=trbv25-1 pe=4 sv=,116,4,3,4,8,3,9,5,6,4,12,5,1,4,5,5,12,10,4,1,9
+A0A075B6P5,immunoglobulin kappa variable 2-28 os=homo sapiens gn=igkv2-28 pe=3 sv=,122,5,2,5,3,2,12,1,4,2,17,4,3,9,8,5,18,5,7,2,6
+A0A075B6Q4,uncharacterized protein os=homo sapiens pe=4 sv=,143,6,1,20,19,4,6,3,5,8,10,4,6,1,6,6,15,5,6,3,6
+A0A075B6Q5,immunoglobulin heavy variable 3-64 os=homo sapiens gn=ighv3-64 pe=3 sv=,120,10,3,3,6,6,13,1,3,4,10,5,3,2,5,6,15,4,10,2,7
+A0A075B6R0,t cell receptor gamma variable 2  os=homo sapiens gn=trgv2 pe=4 sv=,120,9,2,4,6,2,9,2,5,5,13,1,7,3,6,6,13,6,6,3,10
+A0A075B6R2,immunoglobulin heavy variable 4-4 os=homo sapiens gn=ighv4-4 pe=3 sv=,119,7,2,2,3,3,9,2,4,7,13,1,4,6,5,4,19,6,10,6,4
+A0A075B6R9,immunoglobulin kappa variable 2d-24 (non-functional)  os=homo sapiens gn=igkv2d-24 pe=4 sv=,122,5,1,5,2,5,11,1,4,2,15,3,2,9,9,7,16,8,9,2,4
+A0A075B6S0,t cell receptor gamma joining 1  os=homo sapiens gn=trgj2 pe=4 sv=,18,0,0,0,0,1,2,0,0,2,2,0,1,0,0,0,1,3,2,0,2
+A0A075B6S2,immunoglobulin kappa variable 2d-29 os=homo sapiens gn=igkv2d-29 pe=3 sv=,122,4,2,5,3,3,10,1,6,4,16,4,1,10,9,4,17,6,7,2,6
+A0A075B6S4,immunoglobulin kappa variable 1d-17 os=homo sapiens gn=igkv1d-17 pe=3 sv=,119,9,3,3,2,5,9,2,5,3,12,4,3,8,9,6,15,7,5,2,5
+A0A075B6S5,immunoglobulin kappa variable 1-27 os=homo sapiens gn=igkv1-27 pe=3 sv=,119,8,3,6,1,2,8,0,5,4,14,3,2,8,9,5,16,9,6,2,6
+A0A075B6S6,immunoglobulin kappa variable 2d-30 os=homo sapiens gn=igkv2d-30 pe=3 sv=,122,3,2,6,2,3,12,1,3,2,13,4,3,9,8,7,17,6,10,4,5
+A0A075B6S9,immunoglobulin kappa variable 1-37 (non-functional)  os=homo sapiens gn=igkv1d-37 pe=4 sv=,119,6,2,5,1,2,10,0,5,3,14,2,3,8,8,7,17,8,8,2,6
+A0A075B6T3,uncharacterized protein  os=homo sapiens pe=4 sv=,27,1,1,0,3,0,1,0,0,1,5,0,0,2,2,2,3,1,1,1,1
+A0A075B6T6,t cell receptor alpha variable 12-2  os=homo sapiens gn=trav12-2 pe=4 sv=,115,6,2,5,5,4,6,0,5,5,13,2,5,4,9,5,17,3,7,4,6
+A0A075B6T7,t cell receptor alpha variable 6  os=homo sapiens gn=trav6 pe=4 sv=,135,8,2,5,8,6,7,3,5,8,20,2,5,5,8,9,8,9,5,4,5
+A0A075B6T8,t cell receptor alpha variable 9-1  os=homo sapiens gn=trav9-1 pe=4 sv=,114,7,2,5,8,6,10,2,3,6,9,4,5,6,6,2,12,5,7,1,6
+A0A075B6U4,t cell receptor alpha variable 7  os=homo sapiens gn=trav7 pe=4 sv=,114,7,4,3,5,4,9,3,3,5,11,5,7,5,7,5,10,5,6,2,6
+A0A075B6U6,t cell receptor alpha variable 8-7 (non-functional)  os=homo sapiens gn=trav8-7 pe=4 sv=,115,6,2,4,7,7,6,2,3,8,16,2,1,3,6,3,13,8,9,1,6
+A0A075B6U7,t cell receptor alpha joining 23  os=homo sapiens gn=traj23 pe=4 sv=,22,0,0,0,1,1,4,0,2,2,2,0,1,1,2,0,1,1,1,0,1
+A0A075B6U8,t cell receptor alpha joining 12  os=homo sapiens gn=traj12 pe=4 sv=,21,0,0,1,0,1,2,0,1,1,3,1,0,1,0,2,3,1,1,0,1
+A0A075B6U9,t cell receptor alpha joining 2 (non-functional)  os=homo sapiens gn=traj2 pe=4 sv=,23,0,0,1,0,2,4,1,3,2,1,0,1,0,0,0,1,4,1,0,0
+A0A075B6V0,t cell receptor alpha joining 16  os=homo sapiens gn=traj16 pe=4 sv=,21,1,0,2,0,2,2,0,0,2,4,1,0,0,1,1,1,1,1,0,0
+A0A075B6V1,t cell receptor alpha joining 43  os=homo sapiens gn=traj43 pe=4 sv=,19,1,0,1,0,1,2,0,0,1,1,1,3,1,0,2,0,2,1,0,0
+A0A075B6V2,t cell receptor alpha joining 21  os=homo sapiens gn=traj21 pe=4 sv=,19,0,0,0,0,3,2,0,0,3,1,0,3,1,0,0,1,1,1,0,2
+A0A075B6V3,t cell receptor alpha joining 48  os=homo sapiens gn=traj48 pe=4 sv=,22,0,0,0,1,2,3,0,2,1,2,0,2,1,0,1,1,4,0,0,0
+A0A075B6V5,t cell receptor alpha variable 36/delta variable 7  os=homo sapiens gn=trav36dv7 pe=4 sv=,115,6,3,4,7,5,4,1,6,9,17,3,3,3,4,2,14,8,8,3,3
+A0A075B6V6,t cell receptor delta joining 2  os=homo sapiens gn=trdj2 pe=4 sv=,19,1,0,0,1,2,2,0,1,1,3,0,0,1,2,0,0,2,1,0,0
+A0A075B6V7,t cell receptor alpha joining 26  os=homo sapiens gn=traj26 pe=4 sv=,21,0,0,1,0,2,3,0,0,0,2,0,2,2,1,1,1,1,2,0,1
+A0A075B6V8,t cell receptor alpha joining 5  os=homo sapiens gn=traj5 pe=4 sv=,21,1,0,1,0,1,3,0,0,0,2,0,0,1,2,3,1,3,1,0,0
+A0A075B6V9,t cell receptor alpha joining 59 (non-functional)  os=homo sapiens gn=traj59 pe=4 sv=,19,0,0,0,1,2,3,0,0,2,0,1,1,0,1,2,0,2,2,0,0
+A0A075B6W1,t cell receptor delta joining 3  os=homo sapiens gn=trdj3 pe=4 sv=,21,0,0,1,1,3,2,0,1,1,1,1,0,1,1,1,1,2,1,1,0
+A0A075B6W2,t cell receptor alpha joining 52  os=homo sapiens gn=traj52 pe=4 sv=,24,1,0,0,0,1,5,1,1,1,2,0,1,1,1,0,1,4,1,0,1
+A0A075B6W3,t cell receptor alpha joining 33  os=homo sapiens gn=traj33 pe=4 sv=,20,1,0,1,0,0,2,0,3,2,2,0,1,1,1,0,1,1,0,1,1
+A0A075B6W4,t cell receptor alpha joining 46  os=homo sapiens gn=traj46 pe=4 sv=,22,1,0,1,0,1,3,0,0,3,2,0,0,1,0,2,2,3,1,0,0
+A0A075B6W5,t cell receptor alpha variable 23/delta variable 6  os=homo sapiens gn=trav23dv6 pe=4 sv=,124,9,3,6,4,8,8,1,9,10,8,2,3,6,13,2,14,3,5,3,4
+A0A075B6W6,t cell receptor alpha joining 27  os=homo sapiens gn=traj27 pe=4 sv=,21,1,0,1,0,1,3,0,0,2,1,0,2,1,0,0,1,5,1,0,0
+A0A075B6W7,t cell receptor alpha joining 38  os=homo sapiens gn=traj38 pe=4 sv=,22,2,0,0,0,0,3,0,1,1,3,0,4,1,0,1,1,1,1,1,0
+A0A075B6W8,t cell receptor alpha joining 17  os=homo sapiens gn=traj17 pe=4 sv=,22,2,0,0,0,1,4,0,1,3,2,0,1,1,0,1,0,2,2,0,0
+A0A075B6W9,t cell receptor alpha joining 53  os=homo sapiens gn=traj53 pe=4 sv=,23,0,0,0,0,1,4,0,0,2,3,0,3,1,0,0,2,3,1,0,1
+A0A075B6X0,t cell receptor alpha joining 45  os=homo sapiens gn=traj45 pe=4 sv=,23,1,0,1,0,1,6,1,2,1,2,0,0,1,1,0,1,2,0,0,1
+A0A075B6X3,t cell receptor alpha joining 32  os=homo sapiens gn=traj32 pe=4 sv=,23,2,0,0,0,1,4,0,1,1,3,0,2,1,1,0,0,3,1,0,1
+A0A075B6X4,t cell receptor alpha joining 28  os=homo sapiens gn=traj28 pe=4 sv=,23,1,0,0,0,1,4,0,1,2,2,0,0,1,1,0,3,2,1,0,2
+A0A075B6X5,t cell receptor alpha variable 18  os=homo sapiens gn=trav18 pe=4 sv=,113,6,3,4,7,5,4,1,3,4,15,1,3,5,6,5,18,8,6,1,6
+A0A075B6X7,t cell receptor alpha joining 50  os=homo sapiens gn=traj50 pe=4 sv=,21,0,0,1,0,1,2,0,2,2,1,0,0,2,0,0,3,2,2,0,1
+A0A075B6X8,t cell receptor alpha joining 44  os=homo sapiens gn=traj44 pe=4 sv=,22,1,0,0,0,1,3,0,0,1,3,0,1,0,1,1,1,6,1,0,0
+A0A075B6X9,t cell receptor alpha joining 18  os=homo sapiens gn=traj18 pe=4 sv=,23,0,0,1,0,1,4,0,0,0,3,0,0,1,1,3,1,3,1,1,1
+A0A075B6Y0,t cell receptor alpha joining 49  os=homo sapiens gn=traj49 pe=4 sv=,20,0,0,0,0,2,3,0,1,0,1,0,2,1,1,0,1,4,1,0,1
+A0A075B6Y1,t cell receptor alpha joining 30  os=homo sapiens gn=traj30 pe=4 sv=,20,0,0,2,0,1,2,1,3,2,2,0,1,1,0,2,0,1,0,0,0
+A0A075B6Y2,t cell receptor alpha joining 35 (non-functional)  os=homo sapiens gn=traj35 pe=4 sv=,21,0,1,0,0,1,4,1,2,0,2,0,1,1,1,0,1,1,3,0,0
+A0A075B6Y3,t cell receptor alpha joining 3  os=homo sapiens gn=traj3 pe=4 sv=,22,1,0,0,0,1,3,0,3,1,1,0,0,1,0,2,5,1,0,0,1
+A0A075B6Y4,t cell receptor alpha joining 19 (non-functional)  os=homo sapiens gn=traj19 pe=4 sv=,21,0,0,0,0,3,2,1,0,2,0,0,2,1,1,1,1,2,1,0,2
+A0A075B6Y5,t cell receptor alpha joining 47  os=homo sapiens gn=traj47 pe=4 sv=,20,1,0,0,1,1,3,0,1,2,2,0,1,0,0,1,1,1,2,0,1
+A0A075B6Y8,t cell receptor alpha joining 11  os=homo sapiens gn=traj11 pe=4 sv=,21,0,0,0,0,1,3,0,0,1,3,1,1,1,0,0,3,3,1,0,1
+A0A075B6Y9,t cell receptor alpha joining 42  os=homo sapiens gn=traj42 pe=4 sv=,23,0,0,0,0,1,5,0,1,3,2,0,2,1,1,0,2,1,1,0,1
+A0A075B6Z0,t cell receptor alpha joining 22  os=homo sapiens gn=traj22 pe=4 sv=,22,1,0,0,0,1,3,0,0,0,3,0,0,1,2,1,4,3,1,0,0
+A0A075B6Z1,t cell receptor alpha joining 20  os=homo sapiens gn=traj20 pe=4 sv=,20,2,0,1,0,1,2,0,0,1,1,0,1,0,0,1,2,3,2,0,1
+A0A075B6Z2,t cell receptor alpha joining 56  os=homo sapiens gn=traj56 pe=4 sv=,22,1,0,0,0,1,3,0,1,2,2,0,1,1,0,1,2,3,1,0,1
+A0A075B6Z3,t cell receptor alpha joining 6  os=homo sapiens gn=traj6 pe=4 sv=,22,1,0,0,0,1,4,1,2,0,1,0,0,2,0,1,3,2,1,0,1
+A0A075B6Z4,t cell receptor delta joining 4  os=homo sapiens gn=trdj4 pe=4 sv=,17,0,0,0,1,1,2,0,1,1,2,0,0,1,2,1,0,1,1,0,1
+A0A075B6Z5,t cell receptor alpha joining 4  os=homo sapiens gn=traj4 pe=4 sv=,22,2,0,0,0,2,4,1,1,1,2,0,1,1,0,1,1,1,1,0,1
+A0A075B6Z8,t cell receptor alpha joining 25 (non-functional)  os=homo sapiens gn=traj25 pe=4 sv=,21,0,0,0,1,3,4,0,1,2,2,0,0,1,1,1,1,1,1,0,0
+A0A075B6Z9,t cell receptor alpha joining 24  os=homo sapiens gn=traj24 pe=4 sv=,22,1,0,1,0,2,3,0,0,1,0,0,0,1,2,0,1,4,3,1,0
+A0A075B700,t cell receptor alpha joining 31  os=homo sapiens gn=traj31 pe=4 sv=,20,1,0,1,0,1,2,0,0,1,2,1,3,1,1,1,0,1,2,0,0
+A0A075B702,t cell receptor alpha joining 41  os=homo sapiens gn=traj41 pe=4 sv=,22,1,0,0,0,1,3,0,0,1,3,0,3,1,0,0,3,2,1,0,1
+A0A075B704,t cell receptor alpha joining 57  os=homo sapiens gn=traj57 pe=4 sv=,22,0,0,0,1,1,4,0,0,3,2,0,1,1,1,0,1,3,2,0,0
+A0A075B706,t cell receptor delta joining 1  os=homo sapiens gn=trdj1 pe=4 sv=,18,0,0,1,1,1,2,0,1,2,1,0,0,1,0,1,0,3,2,0,0
+A0A075B708,t cell receptor alpha joining 61 (non-functional)  os=homo sapiens gn=traj61 pe=4 sv=,21,1,0,0,0,1,2,0,1,2,2,1,2,0,0,3,0,2,1,0,1
+A0A075B709,t cell receptor alpha joining 13  os=homo sapiens gn=traj13 pe=4 sv=,22,0,0,0,0,1,4,0,1,2,1,0,1,1,2,0,1,3,2,0,1
+A0A075B710,t cell receptor alpha joining 39  os=homo sapiens gn=traj39 pe=4 sv=,22,1,0,0,0,1,4,0,0,1,2,2,4,1,0,1,0,2,1,0,0
+A0A075B711,t cell receptor alpha joining 29  os=homo sapiens gn=traj29 pe=4 sv=,21,1,0,0,0,1,3,0,1,1,2,0,2,1,0,1,2,2,2,0,0
+A0A075B712,t cell receptor alpha joining 54  os=homo sapiens gn=traj54 pe=4 sv=,21,1,0,0,0,1,3,0,2,1,2,0,1,1,3,1,0,2,1,0,0
+A0A075B713,t cell receptor alpha joining 1 (non-functional)  os=homo sapiens gn=traj1 pe=4 sv=,22,0,0,0,1,1,2,0,1,1,1,0,0,1,2,1,4,3,1,0,1
+A0A075B714,t cell receptor alpha joining 7  os=homo sapiens gn=traj7 pe=4 sv=,21,1,0,1,0,1,3,0,1,1,1,0,3,1,1,1,0,0,3,0,1
+A0A075B734,uncharacterized protein os=homo sapiens gn=loc100509620 pe=3 sv=,353,28,4,7,17,19,32,14,24,8,33,15,11,19,6,14,28,20,31,9,8
+A0A075B759,peptidyl-prolyl cis-trans isomerase a-like 4e os=homo sapiens gn=ppial4e pe=3 sv=,167,10,4,8,9,14,19,4,13,16,6,4,9,5,3,9,10,10,7,1,3
+A0A075B767,peptidyl-prolyl cis-trans isomerase os=homo sapiens gn=loc105371242 pe=3 sv=,167,8,4,10,8,13,18,4,13,16,7,4,9,5,3,8,10,11,9,1,3
+A0A075B792,uncharacterized protein os=homo sapiens pe=4 sv=,159,22,6,0,3,3,13,0,1,3,20,2,0,25,8,12,19,8,8,3,0
+A0A075B7B6,immunoglobulin heavy variable 4/or15-8 (non-functional)  os=homo sapiens gn=ighv4or15-8 pe=4 sv=,119,6,2,2,4,3,8,2,4,7,13,1,4,7,5,5,19,4,11,6,4
+A0A075B7B8,immunoglobulin heavy variable 3/or16-12 (non-functional)  os=homo sapiens gn=ighv3or16-12 pe=1 sv=,119,8,3,3,6,4,12,2,4,4,11,3,4,2,5,4,15,6,10,4,7
+A0A075B7B9,protein ighd2or15-2a  os=homo sapiens gn=ighd2or15-2b pe=4 sv=,12,1,1,0,1,1,0,0,0,0,0,0,1,0,0,0,1,2,0,0,2
+A0A075B7D0,immunoglobulin heavy variable 1/or15-1 (non-functional)  os=homo sapiens gn=ighv1or15-1 pe=1 sv=,119,12,2,4,4,3,10,2,4,5,6,4,3,3,7,7,11,11,8,4,7
+A0A075B7D4,immunoglobulin kappa variable 1/or2-108 (non-functional)  os=homo sapiens gn=igkv1or2-108 pe=1 sv=,119,8,3,5,2,2,10,0,5,1,15,2,1,7,10,6,17,10,6,2,5
+A0A075B7D8,immunoglobulin heavy variable 3/or15-7 (pseudogene)  os=homo sapiens gn=ighv3or15-7 pe=1 sv=,121,9,3,3,7,4,12,1,3,6,15,3,4,1,6,6,12,6,10,2,6
+A0A075B7E0,protein ighd3or15-3a  os=homo sapiens gn=ighd3or15-3b pe=4 sv=,12,0,0,1,0,1,1,0,0,0,0,0,0,0,0,0,0,2,0,1,4
+A0A075B7E8,immunoglobulin heavy variable 3/or16-13 (non-functional)  os=homo sapiens gn=ighv3or16-13 pe=4 sv=,119,8,3,4,4,5,12,1,3,4,11,5,4,2,6,6,15,5,10,4,5
+A0A075B7F0,immunoglobulin heavy variable 3/or16-10 (non-functional)  os=homo sapiens gn=ighv3or16-10 pe=1 sv=,118,10,3,3,4,5,15,2,3,4,11,4,3,2,5,6,12,4,11,3,6
+A0A075B7F1,immunoglobulin heavy variable 3/or16-8 (non-functional)  os=homo sapiens gn=ighv3or16-8 pe=1 sv=,118,8,3,4,5,5,13,1,4,3,9,3,7,4,5,5,13,4,10,3,7
+A0A087WSX0,immunoglobulin lambda variable 5-45 os=homo sapiens gn=iglv5-45 pe=3 sv=,126,10,4,5,2,2,10,2,5,4,15,2,2,7,8,3,23,6,3,3,7
+A0A087WSX6,cmt1a duplicated region transcript 1 protein os=homo sapiens gn=cdrt1 pe=4 sv=,726,34,23,41,31,29,40,20,41,58,75,18,40,21,28,44,53,36,43,16,23
+A0A087WSY0,hcg1818297 os=homo sapiens gn=hcg_1818297 pe=4 sv=,168,2,3,9,14,10,6,7,8,11,11,4,13,10,10,8,15,10,8,2,4
+A0A087WSY4,immunoglobulin heavy variable 4-31  os=homo sapiens gn=ighv4-31 pe=4 sv=,120,7,2,2,2,3,10,2,5,6,14,1,2,5,6,5,20,6,8,5,7
+A0A087WSY6,immunoglobulin kappa variable 3d-15 os=homo sapiens gn=igkv3d-15 pe=3 sv=,117,11,2,2,5,4,8,0,6,1,14,2,3,8,9,5,14,9,4,3,5
+A0A087WSZ0,immunoglobulin kappa variable 1d-8 os=homo sapiens gn=igkv1d-8 pe=3 sv=,119,9,4,4,2,4,9,0,5,2,15,4,0,7,9,5,17,8,3,3,7
+A0A087WSZ3,homeobox protein hox-d4 os=homo sapiens gn=hoxd4 pe=4 sv=,149,14,2,5,6,4,25,3,1,6,6,4,2,28,9,3,9,1,7,1,10
+A0A087WSZ9,t cell receptor alpha variable 30  os=homo sapiens gn=trav30 pe=4 sv=,114,6,2,2,7,3,8,3,4,8,14,2,2,3,10,3,14,6,7,3,5
+A0A087WT01,t cell receptor alpha variable 27  os=homo sapiens gn=trav27 pe=1 sv=,111,5,2,3,6,5,9,1,4,5,15,1,2,3,9,3,12,8,10,3,3
+A0A087WT02,t cell receptor alpha variable 9-2  os=homo sapiens gn=trav9-2 pe=4 sv=,114,7,2,4,7,5,10,1,2,6,15,2,3,4,4,3,11,11,7,1,7
+A0A087WT03,t cell receptor alpha variable 26-1  os=homo sapiens gn=trav26-1 pe=4 sv=,111,8,3,4,5,2,5,4,10,3,8,3,6,4,4,7,7,12,7,1,6
+A0A087WTG2,uncharacterized protein os=homo sapiens pe=4 sv=,47,12,2,2,1,1,1,1,0,1,0,1,3,8,0,3,4,2,3,1,0
+A0A087WTH1,transmembrane protein 265 os=homo sapiens gn=tmem265 pe=3 sv=,110,18,6,1,10,2,6,2,8,4,16,2,1,4,1,8,6,2,6,4,1
+A0A087WTH5,potassium voltage-gated channel subfamily e member 1b os=homo sapiens gn=kcne1b pe=3 sv=,135,7,1,3,9,6,8,3,5,7,14,5,7,8,6,7,11,8,9,2,6
+A0A087WTJ2,gimap1-gimap5 readthrough os=homo sapiens gn=gimap1-gimap5 pe=4 sv=,520,39,14,20,33,22,41,14,19,20,59,6,16,17,31,41,35,32,34,6,12
+A0A087WTK3,zinc finger protein 248 os=homo sapiens gn=znf248 pe=4 sv=,125,1,3,8,14,8,4,3,6,10,13,1,6,5,9,4,7,3,9,4,4
+A0A087WTM6,uncharacterized protein os=homo sapiens pe=4 sv=,93,9,3,2,3,1,19,0,2,0,7,2,0,8,1,15,5,8,5,1,0
+A0A087WU04,t cell receptor alpha joining 36  os=homo sapiens gn=traj36 pe=4 sv=,21,1,0,0,0,2,3,0,1,0,2,0,2,1,1,1,0,4,1,0,0
+A0A087WUJ7,uncharacterized protein os=homo sapiens pe=4 sv=,231,16,6,11,12,9,14,2,2,7,31,3,10,11,11,19,15,15,17,8,8
+A0A087WUL8,neuroblastoma breakpoint family member 19 os=homo sapiens gn=nbpf19 pe=5 sv=,3908,93,159,322,540,59,216,26,75,223,443,23,28,289,243,287,371,65,196,4,181
+A0A087WUM0,synj2bp-cox16 readthrough  os=homo sapiens gn=synj2bp-cox16 pe=4 sv=,190,7,0,15,14,5,19,3,11,11,20,4,12,10,9,11,11,4,13,2,5
+A0A087WUU8,uncharacterized protein  os=homo sapiens pe=1 sv=,499,19,30,8,41,21,29,36,26,63,28,5,26,13,20,18,35,37,14,2,19
+A0A087WUV0,uncharacterized protein os=homo sapiens pe=4 sv=,531,26,25,15,56,17,31,35,21,45,35,3,17,21,36,27,49,31,14,3,15
+A0A087WV48,uncharacterized protein os=homo sapiens pe=4 sv=,118,2,3,4,5,6,13,5,7,4,3,2,2,12,6,7,15,9,7,3,1
+A0A087WV62,t cell receptor beta variable 16 (gene/pseudogene)  os=homo sapiens gn=trbv16 pe=4 sv=,117,9,6,2,9,8,6,2,6,9,10,2,4,7,7,2,10,5,6,1,4
+A0A087WV96,cyp3a7-cyp3a51p readthrough os=homo sapiens gn=cyp3a7-cyp3a51p pe=3 sv=,512,18,6,24,28,29,25,7,33,42,58,15,19,36,16,23,29,32,41,5,17
+A0A087WVE0,uncharacterized protein  os=homo sapiens pe=4 sv=,106,6,3,0,5,2,10,2,2,3,4,3,0,13,11,18,8,7,1,5,0
+A0A087WVF3,tbc1 domain family member 3d os=homo sapiens gn=tbc1d3d pe=2 sv=,559,37,13,30,33,17,42,15,21,31,48,12,10,47,32,47,38,23,25,15,13
+A0A087WVT1,zinc finger protein 48 os=homo sapiens gn=znf48 pe=1 sv=,504,27,23,17,25,17,54,30,10,36,31,3,1,68,17,47,39,24,18,0,8
+A0A087WW49,uncharacterized protein  os=homo sapiens pe=4 sv=,119,6,2,2,4,3,8,2,4,7,13,1,4,7,5,4,19,5,11,6,4
+A0A087WW87,immunoglobulin kappa variable 2-40 os=homo sapiens gn=igkv2-40 pe=3 sv=,124,4,2,8,5,3,10,0,5,2,16,4,1,10,7,6,16,7,7,2,6
+A0A087WWA1,phosphatidylinositol 3-kinase regulatory subunit gamma os=homo sapiens gn=pik3r3 pe=4 sv=,97,5,1,1,0,4,9,2,6,1,6,5,3,12,5,17,5,6,3,2,2
+A0A087WWC5,uncharacterized protein  os=homo sapiens pe=4 sv=,77,7,4,4,5,4,4,3,4,3,8,1,0,2,4,2,8,5,5,2,0
+A0A087WWL8,uncharacterized protein  os=homo sapiens pe=4 sv=,133,11,7,6,4,6,8,2,5,5,12,2,3,16,5,8,7,8,8,6,0
+A0A087WWU0,uncharacterized protein  os=homo sapiens pe=4 sv=,42,4,0,3,10,0,2,0,0,8,0,0,2,1,3,0,2,2,2,1,0
+A0A087WWV3,uncharacterized protein os=homo sapiens pe=4 sv=,82,4,3,4,9,2,5,2,1,2,11,2,0,9,7,7,1,3,2,4,2
+A0A087WX66,uncharacterized protein  os=homo sapiens pe=4 sv=,34,5,1,0,0,0,2,0,1,0,8,1,0,6,1,1,3,2,0,0,1
+A0A087WX78,putative elongin-a3 member c os=homo sapiens gn=eloa3c pe=5 sv=,394,47,5,18,28,6,35,9,4,20,24,8,10,40,25,31,33,14,18,5,7
+A0A087WXM4,uncharacterized protein os=homo sapiens pe=4 sv=,86,5,3,5,10,1,7,2,3,7,7,5,1,6,5,4,3,3,5,1,1
+A0A087WXM9,meiosis-specific kinetochore protein os=homo sapiens gn=meikin pe=2 sv=,380,23,7,16,30,10,18,5,14,36,27,5,19,23,13,15,57,23,21,3,8
+A0A087WXS9,tbc1 domain family member 3i os=homo sapiens gn=tbc1d3i pe=3 sv=,559,37,13,30,33,17,42,15,21,31,47,13,10,47,32,47,38,23,25,15,13
+A0A087WYE8,immunoglobulin heavy variable 1/or21-1 (non-functional)  os=homo sapiens gn=ighv1or21-1 pe=1 sv=,119,11,4,4,4,2,7,3,4,5,7,6,1,2,8,5,14,8,12,4,6
+A0A087WYN8,uncharacterized protein os=homo sapiens pe=4 sv=,133,13,5,1,3,2,8,4,3,6,6,3,1,14,2,14,23,14,3,5,0
+A0A087WZ39,t cell receptor beta variable 15  os=homo sapiens gn=trbv15 pe=4 sv=,116,7,4,7,1,6,8,4,2,4,12,5,7,7,8,5,8,7,4,2,6
+A0A087WZ62,mannosyltransferase os=homo sapiens pe=3 sv=,859,75,22,28,43,60,53,22,36,34,107,15,24,48,28,48,56,36,48,19,42
+A0A087WZ82,fxyd6-fxyd2 readthrough os=homo sapiens gn=fxyd6-fxyd2 pe=4 sv=,147,8,5,6,10,9,12,2,7,8,19,3,5,7,4,12,9,2,11,0,5
+A0A087WZG4,uncharacterized protein  os=homo sapiens pe=4 sv=,1141,76,12,49,109,30,72,20,39,68,126,18,29,74,83,98,100,46,47,8,17
+A0A087WZY1,uncharacterized protein os=homo sapiens pe=4 sv=,270,10,3,10,8,5,41,5,3,6,18,2,4,52,46,10,20,4,10,5,3
+A0A087X002,uncharacterized protein os=homo sapiens pe=4 sv=,242,12,33,9,11,9,26,8,1,6,18,3,10,12,14,7,17,22,9,2,9
+A0A087X096,t cell receptor alpha joining 37  os=homo sapiens gn=traj37 pe=4 sv=,23,0,0,0,0,1,5,0,1,2,2,0,1,1,2,0,2,3,1,0,0
+A0A087X0B3,uncharacterized protein  os=homo sapiens pe=4 sv=,340,16,12,18,24,21,14,11,21,20,30,10,19,18,10,17,20,20,19,4,10
+A0A087X0H2,dna repair and recombination protein rad54b os=homo sapiens gn=rad54b pe=1 sv=,739,20,26,31,48,33,45,22,57,52,84,10,33,32,38,31,59,38,40,7,20
+A0A087X0K7,t cell receptor beta variable 17 (non-functional)  os=homo sapiens gn=trbv17 pe=4 sv=,116,6,3,4,6,3,7,5,5,4,11,5,4,7,6,7,11,6,7,3,4
+A0A087X0M5,t cell receptor beta variable 18  os=homo sapiens gn=trbv18 pe=4 sv=,117,8,5,3,8,4,9,3,5,5,11,5,3,7,6,11,9,1,7,1,4
+A0A087X0N3,nucleolar protein 4-like os=homo sapiens gn=nol4l pe=1 sv=,692,51,9,44,46,18,51,11,21,35,46,23,24,50,29,42,83,46,26,4,21
+A0A087X0R7,senp3-eif4a1 readthrough (nmd candidate)  os=homo sapiens gn=senp3-eif4a1 pe=4 sv=,549,26,11,29,37,20,38,17,18,26,55,13,18,42,31,42,42,24,29,9,13
+A0A087X0T9,uncharacterized protein os=homo sapiens pe=4 sv=,216,10,4,9,24,10,6,4,13,18,17,2,9,14,12,11,22,8,7,3,9
+A0A087X179,tbc1 domain family member 3e os=homo sapiens gn=tbc1d3e pe=2 sv=,559,37,13,30,33,17,42,15,21,33,48,12,10,47,32,45,38,23,25,15,13
+A0A087X1B8,uncharacterized protein  os=homo sapiens pe=4 sv=,178,10,6,4,9,7,15,7,8,9,16,3,3,16,7,9,17,9,11,4,4
+A0A087X1C1,uncharacterized protein os=homo sapiens pe=4 sv=,82,1,2,5,6,4,4,2,1,10,9,1,2,5,4,4,11,5,3,1,0
+A0A087X1C5,putative cytochrome p450 2d7 os=homo sapiens gn=cyp2d7 pe=5 sv=,524,42,9,23,28,31,36,16,16,15,66,11,11,40,23,41,25,25,44,7,6
+A0A087X1G2,tbc1 domain family member 3k os=homo sapiens gn=tbc1d3k pe=3 sv=,559,37,13,30,33,17,42,15,22,33,48,12,10,47,31,46,38,22,25,15,13
+A0A087X1L8,uncharacterized protein os=homo sapiens gn=loc102723996 pe=4 sv=,196,13,6,8,8,5,11,2,9,3,27,2,14,9,7,9,18,13,19,5,4
+A0A087X1X8,uncharacterized protein os=homo sapiens pe=4 sv=,219,28,10,2,5,2,14,2,0,2,35,0,0,30,9,13,31,13,16,3,0
+A0A088AWK7,uncharacterized protein os=homo sapiens pe=4 sv=,364,14,9,16,29,10,16,6,17,27,42,9,10,19,23,21,28,19,23,12,8
+A0A096LNI1,uncharacterized protein os=homo sapiens pe=4 sv=,103,22,0,0,10,0,23,0,0,0,7,0,0,10,0,0,5,5,13,6,0
+A0A096LNI4,uncharacterized protein os=homo sapiens gn=loc107987205 pe=4 sv=,214,29,3,2,9,4,31,5,3,8,16,3,1,29,3,37,14,4,5,4,0
+A0A096LNI7,uncharacterized protein os=homo sapiens pe=4 sv=,131,11,5,2,4,2,8,5,7,10,17,1,2,9,1,12,17,7,6,2,0
+A0A096LNI8,uncharacterized protein os=homo sapiens pe=4 sv=,26,1,0,0,0,0,0,0,0,7,2,2,0,0,2,8,1,1,0,1,0
+A0A096LNJ6,uncharacterized protein os=homo sapiens pe=4 sv=,129,6,2,3,6,9,8,6,3,7,18,3,4,13,7,5,11,8,5,1,1
+A0A096LNJ8,uncharacterized protein os=homo sapiens pe=4 sv=,36,3,0,1,2,0,1,1,2,1,5,1,0,4,0,4,4,3,3,0,0
+A0A096LNJ9,uncharacterized protein os=homo sapiens pe=4 sv=,77,1,5,3,5,2,6,3,0,6,2,3,2,6,4,12,4,2,5,1,3
+A0A096LNL0,uncharacterized protein os=homo sapiens pe=4 sv=,231,23,9,4,14,2,20,11,9,13,20,2,2,13,5,27,23,11,8,8,3
+A0A096LNM4,uncharacterized protein os=homo sapiens pe=4 sv=,69,2,7,2,3,4,3,0,5,2,11,2,2,3,1,1,7,2,6,1,3
+A0A096LNM6,uncharacterized protein os=homo sapiens pe=4 sv=,34,3,2,0,2,0,1,2,2,5,7,0,0,2,0,3,2,0,1,1,0
+A0A096LNN0,uncharacterized protein os=homo sapiens pe=4 sv=,17,1,1,0,1,0,4,0,2,0,0,0,0,1,0,2,1,1,2,0,0
+A0A096LNN9,uncharacterized protein os=homo sapiens pe=4 sv=,131,4,6,5,6,1,15,8,5,6,16,5,2,8,4,7,13,5,7,2,3
+A0A096LNP1,beta-defensin os=homo sapiens gn=loc100129216 pe=3 sv=,72,3,6,4,3,5,2,2,5,5,5,2,2,3,2,4,6,3,4,1,3
+A0A096LNP2,uncharacterized protein os=homo sapiens pe=4 sv=,64,5,4,0,2,2,0,4,4,4,7,3,0,2,2,2,3,3,7,3,5
+A0A096LNP3,uncharacterized protein os=homo sapiens pe=4 sv=,127,6,2,4,6,9,7,6,2,8,17,2,3,14,6,6,11,9,4,1,1
+A0A096LNP8,uncharacterized protein os=homo sapiens pe=4 sv=,20,0,1,0,1,1,0,1,0,1,4,0,0,0,1,0,3,2,3,0,1
+A0A096LNQ6,uncharacterized protein os=homo sapiens pe=4 sv=,17,0,0,0,1,0,0,0,0,10,0,1,0,0,2,0,2,0,0,0,0
+A0A096LNQ9,uncharacterized protein os=homo sapiens pe=4 sv=,180,17,5,4,7,4,7,5,11,9,15,1,7,17,16,11,17,13,5,4,2
+A0A096LNR5,uncharacterized protein os=homo sapiens pe=4 sv=,127,6,3,4,6,9,7,6,3,7,15,2,4,16,6,6,10,9,3,1,1
+A0A096LNS0,uncharacterized protein os=homo sapiens pe=4 sv=,130,9,2,2,6,7,4,10,8,4,18,3,5,12,4,3,14,5,9,1,1
+A0A096LNS1,uncharacterized protein os=homo sapiens pe=4 sv=,103,21,0,1,10,0,24,0,0,0,5,0,0,10,0,0,5,5,15,5,0
+A0A096LNS6,uncharacterized protein os=homo sapiens pe=4 sv=,305,47,10,5,12,6,37,7,3,21,22,5,3,22,17,32,26,13,7,2,3
+A0A096LNS7,uncharacterized protein os=homo sapiens pe=4 sv=,22,9,0,0,0,2,2,1,1,0,0,0,0,3,0,0,2,0,1,0,0
+A0A096LNS8,hcg1978618 os=homo sapiens gn=hcg_1978618 pe=4 sv=,43,1,2,1,1,1,2,4,2,4,4,1,1,0,1,3,5,3,2,1,3
+A0A096LNT2,uncharacterized protein  os=homo sapiens pe=4 sv=,110,7,5,2,2,1,16,3,4,3,5,2,2,11,3,15,13,6,2,5,1
+A0A096LNT5,uncharacterized protein os=homo sapiens pe=4 sv=,32,1,3,0,0,0,2,3,0,0,1,0,0,2,5,3,8,1,1,1,0
+A0A096LNU4,uncharacterized protein os=homo sapiens pe=4 sv=,109,3,4,3,6,5,3,2,8,11,15,2,6,10,2,4,6,4,7,2,4
+A0A096LNU5,uncharacterized protein os=homo sapiens pe=4 sv=,77,1,5,4,5,2,6,3,0,6,2,3,1,6,4,12,4,2,5,1,3
+A0A096LNU8,uncharacterized protein os=homo sapiens pe=4 sv=,205,12,6,6,15,7,8,2,10,17,23,7,9,12,12,14,12,7,13,7,2
+A0A096LNW0,uncharacterized protein os=homo sapiens pe=4 sv=,20,1,0,1,3,1,0,0,1,0,4,0,1,1,1,1,1,1,1,0,1
+A0A096LNW3,uncharacterized protein os=homo sapiens pe=4 sv=,100,10,4,0,4,4,7,6,5,2,16,2,2,3,4,1,14,5,6,2,1
+A0A096LNX5,uncharacterized protein os=homo sapiens pe=4 sv=,114,11,4,5,7,5,8,5,4,8,8,1,5,10,3,3,8,4,11,1,1
+A0A096LNY1,uncharacterized protein os=homo sapiens pe=4 sv=,26,1,1,0,0,0,0,1,0,7,1,3,0,0,1,7,2,0,0,1,0
+A0A096LNY2,uncharacterized protein os=homo sapiens pe=4 sv=,27,3,0,1,1,0,3,0,1,4,1,0,0,0,2,5,4,0,1,0,0
+A0A096LNY8,uncharacterized protein os=homo sapiens pe=4 sv=,23,1,0,0,0,2,1,1,0,1,4,1,3,0,0,0,3,1,3,0,1
+A0A096LNZ4,uncharacterized protein os=homo sapiens pe=4 sv=,93,5,3,5,2,1,7,1,2,1,12,3,4,6,8,6,15,2,6,2,0
+A0A096LNZ6,uncharacterized protein os=homo sapiens pe=4 sv=,25,3,1,0,0,0,0,1,0,9,2,0,1,0,1,2,0,3,0,1,0
+A0A096LP01,long intergenic non-protein coding rna 493 os=homo sapiens gn=linc00493 pe=1 sv=,97,3,0,3,8,3,8,0,2,6,5,3,3,5,1,5,11,8,9,4,8
+A0A096LP06,uncharacterized protein os=homo sapiens pe=4 sv=,90,13,2,0,11,1,17,1,1,1,3,2,0,4,6,6,7,2,5,6,0
+A0A096LP13,uncharacterized protein os=homo sapiens pe=4 sv=,66,0,0,0,0,0,0,0,0,4,0,0,1,0,0,29,28,2,0,0,0
+A0A096LP14,uncharacterized protein os=homo sapiens pe=4 sv=,32,4,1,0,3,0,2,0,2,2,6,1,0,3,1,2,1,0,1,2,0
+A0A096LP20,uncharacterized protein os=homo sapiens pe=4 sv=,51,4,0,1,2,3,4,3,5,1,8,0,0,3,2,0,6,3,2,0,3
+A0A096LP29,uncharacterized protein os=homo sapiens pe=4 sv=,127,6,3,4,6,9,7,6,4,7,15,2,4,16,6,6,10,8,3,1,1
+A0A096LP31,uncharacterized protein os=homo sapiens pe=4 sv=,64,5,3,0,2,2,0,4,3,4,7,3,0,3,2,2,2,3,8,4,5
+A0A096LP35,uncharacterized protein os=homo sapiens pe=4 sv=,12,1,1,0,0,1,0,0,1,1,2,1,0,0,0,2,1,0,0,0,0
+A0A096LP38,uncharacterized protein os=homo sapiens pe=4 sv=,47,2,1,1,7,2,2,3,1,3,2,2,5,1,4,2,2,2,2,2,0
+A0A096LP40,uncharacterized protein os=homo sapiens pe=4 sv=,139,9,4,1,6,8,9,3,7,11,11,4,4,8,0,6,25,6,9,3,2
+A0A096LP41,uncharacterized protein os=homo sapiens pe=4 sv=,140,8,5,6,7,4,12,8,8,3,16,4,2,6,13,4,12,5,12,2,0
+A0A096LP43,uncharacterized protein os=homo sapiens pe=4 sv=,19,0,1,0,0,0,3,0,0,0,3,0,0,1,0,6,3,0,0,1,0
+A0A096LP46,uncharacterized protein os=homo sapiens pe=4 sv=,19,3,1,0,1,0,1,0,0,0,7,0,0,0,0,2,1,1,1,0,0
+A0A096LP49,coiled-coil domain-containing protein 187 os=homo sapiens gn=ccdc187 pe=2 sv=,1081,106,26,42,55,15,91,26,11,47,90,10,9,119,69,94,118,46,51,29,9
+A0A096LP55,"cytochrome b-c1 complex subunit 6-like, mitochondrial os=homo sapiens gn=uqcrhl pe=3 sv=",93,3,4,7,22,3,2,5,0,6,11,2,2,2,3,4,4,5,5,0,1
+A0A096LP58,uncharacterized protein os=homo sapiens pe=4 sv=,181,11,5,6,8,4,25,2,6,5,28,1,4,12,7,17,15,8,6,5,3
+A0A096LP67,uncharacterized protein os=homo sapiens pe=4 sv=,19,1,0,0,1,0,0,1,0,2,3,1,0,2,1,2,2,2,0,0,0
+A0A096LP74,uncharacterized protein os=homo sapiens pe=4 sv=,26,0,1,3,2,0,1,0,1,3,2,0,2,1,0,4,1,1,1,0,2
+A0A096LP75,uncharacterized protein os=homo sapiens pe=4 sv=,472,39,1,25,35,11,37,6,20,30,42,8,6,52,34,22,40,16,29,1,10
+A0A096LP79,uncharacterized protein os=homo sapiens pe=4 sv=,131,3,3,3,7,2,13,7,7,5,19,2,2,9,6,7,14,6,8,3,2
+A0A096LP83,uncharacterized protein os=homo sapiens pe=4 sv=,45,0,2,0,0,2,2,1,9,3,8,1,1,0,0,1,3,2,2,0,7
+A0A096LP88,uncharacterized protein os=homo sapiens gn=loc107984078 pe=4 sv=,136,6,6,5,6,6,9,9,3,2,16,3,2,16,5,8,15,7,8,0,1
+A0A096LP89,uncharacterized protein os=homo sapiens pe=4 sv=,140,8,4,6,7,4,12,8,8,3,16,4,2,6,13,4,12,5,12,2,1
+A0A096LP93,uncharacterized protein os=homo sapiens pe=4 sv=,170,14,8,4,5,1,21,8,5,5,13,3,1,12,9,19,18,5,9,6,1
+A0A096LP95,uncharacterized protein os=homo sapiens pe=4 sv=,18,1,0,0,0,2,0,0,3,1,4,1,0,0,0,1,2,1,1,0,0
+A0A096LPA0,uncharacterized protein os=homo sapiens pe=4 sv=,135,2,6,6,13,4,7,0,7,8,15,4,4,10,5,8,17,6,7,2,1
+A0A096LPA5,uncharacterized protein os=homo sapiens pe=4 sv=,23,1,1,1,0,4,0,1,2,1,1,2,2,1,0,0,2,1,1,0,1
+A0A096LPA7,uncharacterized protein os=homo sapiens pe=4 sv=,22,0,1,0,1,4,0,1,0,2,3,0,1,0,0,2,3,0,1,1,1
+A0A096LPA9,uncharacterized protein os=homo sapiens pe=4 sv=,411,25,12,9,17,11,26,16,23,22,38,6,11,26,20,40,35,36,19,8,4
+A0A096LPC9,uncharacterized protein os=homo sapiens pe=4 sv=,131,5,9,3,6,3,14,5,5,8,17,3,2,9,6,7,10,4,8,2,2
+A0A096LPD2,uncharacterized protein os=homo sapiens pe=4 sv=,17,1,0,0,0,1,1,1,0,1,2,0,0,1,2,0,3,3,0,0,0
+A0A096LPE2,saa2-saa4 readthrough os=homo sapiens gn=saa2-saa4 pe=4 sv=,212,18,3,13,9,12,22,2,7,10,16,7,8,5,4,17,22,5,11,6,11
+A0A096LPE4,uncharacterized protein os=homo sapiens pe=4 sv=,129,6,2,3,6,9,8,6,3,7,18,3,4,13,6,6,11,8,5,1,1
+A0A096LPE9,uncharacterized protein os=homo sapiens pe=4 sv=,142,5,5,1,4,14,5,7,4,6,26,1,3,19,2,1,12,11,7,2,4
+A0A096LPF4,uncharacterized protein os=homo sapiens pe=4 sv=,24,1,0,0,0,0,1,0,0,0,6,1,0,0,1,3,4,1,4,0,1
+A0A096LPF6,uncharacterized protein os=homo sapiens pe=4 sv=,65,7,1,1,1,4,8,3,5,1,7,1,0,3,4,4,5,3,3,0,2
+A0A096LPF7,uncharacterized protein os=homo sapiens pe=4 sv=,61,7,3,0,5,4,3,2,1,2,7,0,1,5,2,8,8,1,0,1,0
